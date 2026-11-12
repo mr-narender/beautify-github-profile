@@ -1748,6 +1748,26 @@ A pixel toolbox for your GitHub profile: a mini room editor, a block README buil
   <img src="https://raw.githubusercontent.com/Deepak-Kambala/drago/main/assets/dragon-status.svg" width="550" alt="Drago Status Card" />
 </p>
 
+### 109 . [GitHub Planet](https://github.com/nitr0yukkuri/githubplanet)
+
+Turns your public GitHub activity into an interactive 3D planet and shareable profile cards and GIFs for your profile README.
+
+📍 For example :
+
+<p align="center">
+  <img width="450" src="https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif" alt="GitHub Planet profile card">
+</p>
+
+### 110 . [GitShine README stats card](https://gitshine.com/readme-stats)
+
+An animated card with your last twelve months of contributions, all-time total, longest and current streak, stars and top languages. One line of Markdown, four themes (auto light/dark, dark, light, night) and a compact layout; no token or sign-up.
+
+📍 For example :
+
+<p align="center">
+  <a href="https://gitshine.com/stats/torvalds"><img width="600" src="https://gitshine.com/card/torvalds" alt="GitShine README stats card"></a>
+</p>
+
 ### Outdated
 <details>
  <summary><strong>Click to expand list</strong></summary>
@@ -1921,16 +1941,6 @@ X (Twitter) profile, latest post and multi-post cards for your README as SVG. Si
   <img width="450" src="https://readme-x-cards.vercel.app/api/profile?user=Seuthoot&theme=aurora" alt="Readme X Cards profile card">
 </p>
 
-### 117 . [GitHub Planet](https://github.com/nitr0yukkuri/githubplanet)
-
-Turns your public GitHub activity into an interactive 3D planet and shareable profile cards and GIFs for your profile README.
-
-📍 For example :
-
-<p align="center">
-  <img width="450" src="https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif" alt="GitHub Planet profile card">
-</p>
-
 </details>
 
 </details>
@@ -2067,6 +2077,14 @@ Generate beautiful, dynamic GitHub profile cards in seconds — Netflix, X (Twit
 <p align="center">
   <img src="https://coolreadme.xyz/api/cat-card?user=yerdaulet-damir&streak=247&longest=247&total=1840" alt="cat streak card — God tier" width="49%" />
   <img src="https://coolreadme.xyz/api/cinematic?user=yerdaulet-damir&status=BUILDING+AI+AGENTS&focus=Agentic+workflows+%26+open-source&accent=%23A78BFA" alt="cinematic profile card" width="49%" />
+</p>
+
+### 11 . [GitSkins](https://www.gitskins.com/readme-builder)
+Type a GitHub username and GitSkins fills 30+ README designs with your real repos, languages and contributions, including animated headers, 3D contribution cities and stat cards. Copy the Markdown or publish it to your profile in one click. Free designs plus optional Pro ones.
+
+📍 For example :
+<p align="center">
+  <img width="720" src="https://www.gitskins.com/og/readme.jpg" alt="GitSkins README generator">
 </p>
 
 ---
